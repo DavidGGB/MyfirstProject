@@ -1,0 +1,19 @@
+<style type="text/css">
+
+		footer>span {color: green;
+			font-weight: bold;
+			font-style: italic;}
+		span {color: blue;}
+		#logo {width: 100px;
+			height: 100px}
+		.title {font-size: 24px;
+				color: red}
+		.text {font-size: 18px;
+					color: green}
+		.img {width: 533px;
+						height: 333px}
+  
+		 body {background-color: coral}
+		.a-class {color: yellow;}
+
+	</style>
